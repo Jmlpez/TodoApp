@@ -1,6 +1,6 @@
-# Webpack Starter
+# Todo App
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Este es una aplicacion de lista de tareas, desarrollada en el curso de JavaScript Moderno de Fernando Herrera
 
 ### Notas:
 
